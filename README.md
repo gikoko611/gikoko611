@@ -1,15 +1,22 @@
 <div align="center">
 
-  <!-- Glow Cyber Blue Text Title Banner -->
-  <h1 align="center">
+  <!-- Glow Cyber Blue Text Title Banner with Drop Shadow -->
+  <h1 align="center" style="filter: drop-shadow(0px 0px 15px #00f2fe);">
     <font size="7" color="#00f2fe"><b>☢️ G.I ☢️</b></font>
   </h1>
   <p align="center">
     <code><b>[ CYBER SECURITY & OFFENSIVE DEVELOPMENT ]</b></code>
   </p>
 
-  <!-- Nuclear/Cyber Symbol GIF -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZpZXU1OXV3ZXB3ZmtpZW55ZGZsNWU0eTJvM281czE4bGd3Ync2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7vDFW0BJu9521eog/giphy.gif" width="250" alt="Nuclear Cyber" />
+  <!-- Nuclear Cyber GIF with Glowing Shadow Effect -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZpZXU1OXV3ZXB3ZmtpZW55ZGZsNWU0eTJvM281czE4bGd3Ync2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7vDFW0BJu9521eog/giphy.gif" width="250" alt="Nuclear Cyber" style="filter: drop-shadow(0px 0px 12px #00f2fe); border-radius: 10px;" />
+
+  <br><br>
+
+  <!-- Terminal Hacking Box Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00F2FE&center=true&vCenter=true&width=550&height=60&lines=%3E_SYSTEM_INITIALIZING...;root%40G.I:~%23+python3+-m+recon_mode;%5B%2B%5D+Target+Locked%3A+Offensive+%26+Defensive+Security;echo+%22Welcome+to+G.I+Environment%22" alt="Terminal Hacking Box" />
+  </a>
 
 </div>
 
